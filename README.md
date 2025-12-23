@@ -1,16 +1,39 @@
-# React + Vite
+# React E-commerce App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive **E-commerce web application** built using **React.js**.  
+This project demonstrates core React concepts along with real-world e-commerce features such as product listing, search, sorting, and filtering using API data.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+##  Features
 
-## React Compiler
+- Fetch products dynamically from an external API
+- Search products by name
+- Sort products (price, name, etc.)
+- Filter products based on categories
+- Responsive UI for different screen sizes
+- Component-based architecture using React
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-## Expanding the ESLint configuration
+##  Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **React.js**
+- **JavaScript (ES6+)**
+- **HTML5**
+- **CSS3**
+- **Bootstrap**
+- **REST API**
+
+
+##  Installation & Setup
+
+1. Clone the repository:
+> git clone https://github.com/ShehryarFaisal760/React_Ecommerce_App.git
+2. Navigate to the project directory:
+> cd React_Ecommerce_App
+3. Install dependencies:
+> npm install
+4. Run the application:
+> npm start
+5. Open in browser:
+> http://localhost:3000
+
